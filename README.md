@@ -1,7 +1,7 @@
-# Albatross Framework
-Albatross framework is an application framework built on top of Microsoft .Net.  It contains libraries and tools that solve common problems and patterns.
+# About
+Utility library for working with threads in C#
 
 # Libraries
 |Name|Description||
 |-|-|-|
-|[Albatross.Threading](./Albatross.Threading/)|Extends the functionality of .net HttpClient class|[![NuGet Version](https://img.shields.io/nuget/v/Albatross.Threading)](https://www.nuget.org/packages/Albatross.Threading)|
+|[Albatross.Threading](./Albatross.Threading/)|Utility library for working with threads in C#|[![NuGet Version](https://img.shields.io/nuget/v/Albatross.Threading)](https://www.nuget.org/packages/Albatross.Threading)|
